@@ -8,7 +8,7 @@ title: Workshop schedule
 
 <br>
 
-<iframe src="https://planitpurple.northwestern.edu/" width=1100px height=600px></iframe> 
+<iframe src="https://planitpurple.northwestern.edu/" width=900px height=300px></iframe> 
 
 <br>
 
