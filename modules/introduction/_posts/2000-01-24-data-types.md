@@ -26,7 +26,7 @@ title: Data Types and Formats
 
 > Raster data stores information in a grid of cells, where each cell holds a value.
 > 
-> ![raster_example](/arcgis-online/img/raster_examples.png)
+> <html><img src="https://raw.githubusercontent.com/nulib-ds/arcgis_online/gh-pages/img/raster_examples.png" alt txt="raster example"></html>
 <h7><a href="https://ucladataguides.readthedocs.io/en/latest/working_with_mapping/agol.html">UCLA</a></h7>
 
 <br>
