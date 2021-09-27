@@ -18,14 +18,14 @@ title: Data Types and Formats
 
 <br>
 
-> Vector data includes formats like *shapefiles*. Shapefiles are GIS-specific data formats used in both proprietary and open-source software. 
+> Vector data includes formats like *shapefiles* (.shp). Shapefiles are GIS-specific data formats used in both proprietary and open-source software. 
 > 
 > <html><img src="https://raw.githubusercontent.com/nulib-ds/arcgis_online/gh-pages/img/vector_examples.png" alt txt="vector example"></html>
 <h7><a href="https://gsp.humboldt.edu/olm/Lessons/GIS/08%20Rasters/RasterToVector.html">Humbolt State University</a></h7>
 
-<br> Add csv as a type of format
+<br>
 
-> Raster data stores information in a grid of cells, where each cell holds a value.
+> Raster data stores information in a grid of cells, where each cell holds a value. Examples include GeoTIFF, TIFF, JPG or DEM.
 > 
 > <html><img src="https://raw.githubusercontent.com/nulib-ds/arcgis_online/gh-pages/img/raster_examples.png" alt txt="raster example"></html>
 <h7><a href="https://ucladataguides.readthedocs.io/en/latest/working_with_mapping/agol.html">UCLA</a></h7>
