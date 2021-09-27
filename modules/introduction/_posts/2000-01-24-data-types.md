@@ -34,13 +34,15 @@ title: Data Types and Formats
 
 
 > **Tabular data** is stored as columns and rows. 
-> \
+> <br>
 > You can read-in stand-alone tables, or geocode addresses and lat/long coordinates. 
-> \
+> <br>
 > The most common formats you'll work with are .txt and .csv 
 > 
 > 
 > <html><img src="https://raw.githubusercontent.com/nulib-ds/qgis/gh-pages/img/csv_template.png" alt txt="csv format"></html>
+
+<br>
 
 <html>
   
