@@ -40,7 +40,7 @@ title: Data Types and Formats
 > The most common formats you'll work with are .txt and .csv 
 > 
 > 
-> ![tabular example](/qgis/img/csv_template.png)
+> <html><img src="https://raw.githubusercontent.com/nulib-ds/qgis/gh-pages/img/csv_template.png" alt txt="csv format"></html>
 
 <html>
   
