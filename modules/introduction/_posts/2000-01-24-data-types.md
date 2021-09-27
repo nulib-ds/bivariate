@@ -9,7 +9,8 @@ title: Data Types and Formats
 
 > GIS uses two main data types:<br>
 > 1) **Vector**<br>
-> 2) **Raster** 
+> 2) **Raster** <br>
+> 3) **Tabular**
 
 <br>
 
@@ -30,6 +31,16 @@ title: Data Types and Formats
 <h7><a href="https://ucladataguides.readthedocs.io/en/latest/working_with_mapping/agol.html">UCLA</a></h7>
 
 <br>
+
+
+> **Tabular data** is stored as columns and rows. 
+> \
+> You can read-in stand-alone tables, or geocode addresses and lat/long coordinates. 
+> \
+> The most common formats you'll work with are .txt and .csv 
+> 
+> 
+> ![tabular example](/qgis/img/csv_template.png)
 
 <html>
   
