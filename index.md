@@ -24,9 +24,12 @@ Geospatial and Data Services - Northwestern University Libraries <br>
 <br>
   <br>
     <br>
-      <br>
-        <br>
+    
 <html><center><img src="https://raw.githubusercontent.com/nulib-ds/bivariate/gh-pages/img/map_scale_intro_img.jpg" alt txt="map-scale"></center></html>  
+
+<br>
+  <br>
+    <br>
 
 ### Goal of this workshop
 > This workshop is meant to serve as an introduction to bivariate choropleth mapping. It's a simple workshop that you should be able to replicate on your own afterwards.  
@@ -58,10 +61,12 @@ By the end of this workshop you will be able to:
     <br>
       <br>
       
-## Considerations
-• Normalize your data (!) 
-• Use variables you suspect have a relationship (e.g., rainfall & diabetes vs. obesity & diabetes)
-• Not statistically significant, only looking at highest vs. lowest values of overlaid variables  
+> ## Considerations
+> • Normalize your data (!) 
+> <br>
+> • Use variables you suspect have a relationship (e.g., rainfall & diabetes vs. obesity & diabetes)
+> <br>
+> • Not statistically significant, only looking at highest vs. lowest values of overlaid variables  
 <br>
   <br>
     <br>
@@ -71,4 +76,5 @@ By the end of this workshop you will be able to:
 > • [NHGIS State Shapefile](https://data2.nhgis.org/main)
 > <br>
 > • [CDC U.S. Diabetes Surveillance System](https://gis.cdc.gov/grasp/diabetes/DiabetesAtlas.html)
+> <br>
 >   • Adults Aged 20+ Years; Age-Adjusted Percentage; U.S. Counties; 2016      
