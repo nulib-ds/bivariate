@@ -69,5 +69,6 @@ By the end of this workshop you will be able to:
       
 > ## Data
 > • [NHGIS State Shapefile](https://data2.nhgis.org/main)
+> <br>
 > • [CDC U.S. Diabetes Surveillance System](https://gis.cdc.gov/grasp/diabetes/DiabetesAtlas.html)
 >   • Adults Aged 20+ Years; Age-Adjusted Percentage; U.S. Counties; 2016      
