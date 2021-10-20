@@ -65,11 +65,11 @@ Geospatial and Data Services - Northwestern University Libraries <br>
       <br>
       
 ### Considerations
-> • Normalize your data (!) 
+> * Normalize your data (!) 
 > <br>
-> • Use variables you suspect have a relationship (e.g., rainfall & diabetes vs. obesity & diabetes)
+> * Use variables you suspect have a relationship (e.g., rainfall & diabetes vs. obesity & diabetes)
 > <br>
-> • Not statistically significant, only looking at highest vs. lowest values of overlaid variables  
+> * Not statistically significant, only looking at highest vs. lowest values of overlaid variables  
 
 <br>
   <br>
@@ -77,8 +77,8 @@ Geospatial and Data Services - Northwestern University Libraries <br>
       <br>
       
 ### Data
-> • [NHGIS State Shapefile](https://data2.nhgis.org/main)
+> * [NHGIS State Shapefile](https://data2.nhgis.org/main)
 > <br>
-> • [CDC U.S. Diabetes Surveillance System](https://gis.cdc.gov/grasp/diabetes/DiabetesAtlas.html)
+> * [CDC U.S. Diabetes Surveillance System](https://gis.cdc.gov/grasp/diabetes/DiabetesAtlas.html)
 > <br>
->   • Adults Aged 20+ Years; Age-Adjusted Percentage; U.S. Counties; 2016      
+>   * Adults Aged 20+ Years; Age-Adjusted Percentage; U.S. Counties; 2016      
