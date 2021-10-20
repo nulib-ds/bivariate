@@ -5,10 +5,9 @@ published: true
 
 ## Welcome! Let's get mapping. 
 
-<br>
-
-* Don't have an ArcOnline account yet? Create one <a href="https://northwestern.maps.arcgis.com/home/index.html">here.</a>
-* Want to follow along the demo? [Download Data](/arcgis-online/gis-data/arconline_data_s21.zip)
+> * Don't have an ArcOnline account yet? Create one <a href="https://northwestern.maps.arcgis.com/home/index.html">here.</a>
+> <br>
+> * Want to follow along the demo? [Download Data](/arcgis-online/gis-data/arconline_data_s21.zip)
 
 <br>
 
@@ -36,13 +35,17 @@ Geospatial and Data Services - Northwestern University Libraries <br>
 
 <br>
 
-By the end of this workshop you will be able to: 
+### By the end of this workshop you will be able to: 
 
-* Distinguish between univariate and bivariate 
-* Type of GIS data including Living Atlas sources
-* Knowledge of basic symbology functions
-* Ability to make a bivariate choropleth map and layout
-* Resources and support opportunities 
+> * Distinguish between univariate and bivariate 
+> <br>
+> * Type of GIS data including Living Atlas sources
+> <br>
+> * Knowledge of basic symbology functions
+> <br>
+> * Ability to make a bivariate choropleth map and layout
+> <br>
+> * Resources and support opportunities 
 
 <br>
   <br>
@@ -61,18 +64,19 @@ By the end of this workshop you will be able to:
     <br>
       <br>
       
-> ## Considerations
+### Considerations
 > • Normalize your data (!) 
 > <br>
 > • Use variables you suspect have a relationship (e.g., rainfall & diabetes vs. obesity & diabetes)
 > <br>
 > • Not statistically significant, only looking at highest vs. lowest values of overlaid variables  
+
 <br>
   <br>
     <br>
       <br>
       
-> ## Data
+### Data
 > • [NHGIS State Shapefile](https://data2.nhgis.org/main)
 > <br>
 > • [CDC U.S. Diabetes Surveillance System](https://gis.cdc.gov/grasp/diabetes/DiabetesAtlas.html)
