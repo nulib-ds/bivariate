@@ -7,7 +7,7 @@ published: true
 
 > * Don't have an ArcOnline account yet? Create one <a href="https://northwestern.maps.arcgis.com/home/index.html">here.</a>
 > <br>
-> * Want to follow along the demo? [Download Data](/arcgis-online/gis-data/arconline_data_s21.zip)
+> * Want to follow along the demo? [Download Data](https://northwestern.box.com/s/l2ze5ry6q7fa8hlmz3ruryl5z41co88k)
 
 <br>
 
