@@ -1,5 +1,5 @@
 ---
-title: Tutorials
+title: Tutorials & Workflow Links
 ---
 
 
@@ -21,3 +21,13 @@ title: Tutorials
   <br>
     <br> 
       <br>
+      
+## Symbolizing in ArcPro
+[Bivariate Colors](https://pro.arcgis.com/en/pro-app/latest/help/mapping/layer-properties/bivariate-colors.htm)
+<br>
+  <br>
+    <br> 
+      <br>
+      
+ ## Symbolizing in ArcGIS Online
+ [Change Style Workflow](https://doc.arcgis.com/en/arcgis-online/reference/change-style.htm)
