@@ -7,7 +7,6 @@ published: true
 
 <br>
 
-* Drop your name and institution you're affiliated with in chat!
 * Don't have an ArcOnline account yet? Create one <a href="https://northwestern.maps.arcgis.com/home/index.html">here.</a>
 * Want to follow along the demo? [Download Data](/arcgis-online/gis-data/arconline_data_s21.zip)
 
@@ -25,13 +24,14 @@ Geospatial and Data Services - Northwestern University Libraries <br>
 <br>
 
 ### Goal of this workshop
-> This workshop is meant to serve as an introduction to esri's ArcGIS Online web-based browser. It's *completely* fine if this is your first time using ArcGIS Online, or GIS in general. We're here to support you.
+> This workshop is meant to serve as an introduction to bivariate choropleth mapping. It's a simple workshop that you should be able to replicate on your own afterwards.  
 
 <br>
 
 By the end of this workshop you will be able to: 
 
-* Define what GIS and web GIS is
-* Identify different types of GIS data and formats
-* Understand basic mapping functions + tools
-* Create a web map using ArcOnline, like this one: 
+* Distinguish between univariate and bivariate 
+* Type of GIS data including Living Atlas sources
+* Knowledge of basic symbology functions
+* Ability to make a bivariate choropleth map and layout
+* Resources and support opportunities 
