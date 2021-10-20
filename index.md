@@ -45,18 +45,19 @@ By the end of this workshop you will be able to:
   <br>
     <br>
       <br>
-<html><img src="https://raw.githubusercontent.com/nulib-ds/bivariate/gh-pages/img/univariate_map_ex.jpg" alt txt="univariate"></html>  
+<html><center><img src="https://raw.githubusercontent.com/nulib-ds/bivariate/gh-pages/img/univariate_map_ex.jpg" alt txt="univariate"></center></html>  
 
 <br>
   <br>
     <br>
       <br>
-<html><img src="https://raw.githubusercontent.com/nulib-ds/bivariate/gh-pages/img/bivariate_map_ex.jpg" alt txt="univariate"></html>   
+<html><center><img src="https://raw.githubusercontent.com/nulib-ds/bivariate/gh-pages/img/bivariate_map_ex.jpg" alt txt="univariate"></center></html>   
 
 <br>
   <br>
     <br>
       <br>
+      
 ## Considerations
 • Normalize your data (!) 
 • Use variables you suspect have a relationship (e.g., rainfall & diabetes vs. obesity & diabetes)
