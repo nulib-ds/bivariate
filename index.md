@@ -35,7 +35,3 @@ By the end of this workshop you will be able to:
 * Identify different types of GIS data and formats
 * Understand basic mapping functions + tools
 * Create a web map using ArcOnline, like this one: 
-
-<br>
-
-<iframe src="https://northwestern.maps.arcgis.com/apps/MapJournal/index.html?appid=4c5dccabdc5540e590972b00eb755562" width=900px height=700px></iframe>
