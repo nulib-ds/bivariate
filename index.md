@@ -59,7 +59,7 @@ published: true
   <br>
     <br>
       <br>
-<html><center><img src="https://raw.githubusercontent.com/nulib-ds/bivariate/gh-pages/img/univariate_map_ex.jpg" width="800" height="500"></center></html>  
+<html><center><img src="https://raw.githubusercontent.com/nulib-ds/bivariate/gh-pages/img/univariate_map_ex.jpg" width="1000" height="700"></center></html>  
 
 <br>
   <br>
