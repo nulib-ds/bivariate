@@ -6,7 +6,7 @@ published: true
 ## Welcome! Let's get mapping. 
 <br>
 
-> * We'll be using ArcPro and ArcOnline for today's demo, so you'll need to have signed up for an ArcOnline account. Create one [here.](https://northwestern.maps.arcgis.com/home/index.html) To download and install ArcPro, go [here](https://www.it.northwestern.edu/software/secure/index.html). 
+> * We'll be using ArcPro and ArcOnline for today's demo. You'll need to create an ArcGIS Online account [here.](https://northwestern.maps.arcgis.com/home/index.html) To download and install ArcPro, go [here](https://www.it.northwestern.edu/software/secure/index.html). 
 > 
 > <br>
 > 
@@ -16,8 +16,11 @@ published: true
 
 ### Presenters
 > Kelsey Rydland - Data Science Librarian 
+> 
 > <br>
+> 
 > Méch Frazier - Geospatial Specialist 
+> 
 > <br>
 Geospatial and Data Services - Northwestern University Libraries <br>
 
@@ -43,13 +46,21 @@ Geospatial and Data Services - Northwestern University Libraries <br>
 ### By the end of this workshop you will be able to: 
 
 > * Distinguish between univariate and bivariate 
+> 
 > <br>
+> 
 > * Type of GIS data including Living Atlas sources
+> 
 > <br>
+> 
 > * Knowledge of basic symbology functions
+> 
 > <br>
+> 
 > * Ability to make a bivariate choropleth map and layout
+> 
 > <br>
+> 
 > * Resources and support opportunities 
 
 <br>
