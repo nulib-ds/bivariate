@@ -4,15 +4,6 @@ published: true
 ---
 
 ## Welcome! Let's get mapping. 
-<br>
-
-> * We'll be using ArcPro and ArcOnline for today's demo. You'll need to create an ArcGIS Online account [here.](https://northwestern.maps.arcgis.com/home/index.html) To download and install ArcPro, go [here](https://www.it.northwestern.edu/software/secure/index.html). 
-> 
-> <br>
-> 
-> * Want to follow along the demo? [Download Data](https://northwestern.box.com/s/mhaah8qx8udzaepsm7yuiv4snagxrvy0)
-
-<br>
 
 ### Presenters
 > Kelsey Rydland - Data Science Librarian 
@@ -23,6 +14,16 @@ published: true
 > 
 > <br>
 Geospatial and Data Services - Northwestern University Libraries <br>
+
+<br>
+
+> * We'll be using ArcPro and ArcOnline for today's demo. You'll need to create an ArcGIS Online account [here.](https://northwestern.maps.arcgis.com/home/index.html) To download and install ArcPro, go [here](https://www.it.northwestern.edu/software/secure/index.html). 
+> 
+> <br>
+> 
+> * Want to follow along the demo? [Download Data](https://northwestern.box.com/s/mhaah8qx8udzaepsm7yuiv4snagxrvy0)
+
+<br>
 
 <center>
   <h3 style="color:purple;"><a href="mailto:gis@northwestern.edu?subject=GIS support"> gis@northwestern.edu </a></h3>
