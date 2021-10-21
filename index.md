@@ -104,4 +104,5 @@ published: true
       <br>
       
 ### **To be used during demo**
-> * Obesity and Diabetes Measures 2016 CDC
+> * Join fields "GEOID" from US.shp and "CountyFIPS" from Sheet1$
+> * Copy and paste: Obesity and Diabetes Measures 2016 CDC
