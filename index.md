@@ -45,19 +45,11 @@ published: true
 
 > * Distinguish between univariate and bivariate 
 > 
-> <br>
-> 
 > * Type of GIS data including Living Atlas sources
-> 
-> <br>
 > 
 > * Knowledge of basic symbology functions
 > 
-> <br>
-> 
 > * Ability to make a bivariate choropleth map and layout
-> 
-> <br>
 > 
 > * Resources and support opportunities 
 
@@ -75,7 +67,7 @@ published: true
    <br>
  <br>
    
-<html><center><img src="https://raw.githubusercontent.com/nulib-ds/bivariate/gh-pages/img/bivariate_map_ex.jpg" width="700" height="500"></center></html>   
+<html><center><img src="https://raw.githubusercontent.com/nulib-ds/bivariate/gh-pages/img/bivariate_map_ex.jpg" width="700" height="400"></center></html>   
 
 <br>
   <br>
@@ -96,7 +88,7 @@ published: true
       
 ### **Data**
 > * [NHGIS State Shapefile](https://data2.nhgis.org/main)
-> <br>
+> 
 > * [CDC U.S. Diabetes Surveillance System](https://gis.cdc.gov/grasp/diabetes/DiabetesAtlas.html)
-> <br>
+> 
 >   * Adults Aged 20+ Years; Age-Adjusted Percentage; U.S. Counties; 2016      
