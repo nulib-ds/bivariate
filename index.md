@@ -7,7 +7,7 @@ published: true
 
 > * We'll be using ArcPro and ArcOnline for today's demo, so you'll need to have signed up for an ArcOnline account. Create one <a href="https://northwestern.maps.arcgis.com/home/index.html">here.</a>
 > <br>
-> * Want to follow along the demo? [Download Data](https://northwestern.box.com/s/l2ze5ry6q7fa8hlmz3ruryl5z41co88k)
+> * Want to follow along the demo? [Download Data](https://northwestern.box.com/s/mhaah8qx8udzaepsm7yuiv4snagxrvy0)
 
 <br>
 
