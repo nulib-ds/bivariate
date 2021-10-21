@@ -38,12 +38,12 @@ published: true
   <br>
     <br>
 
-### Goal of this workshop
+### **Goal of this workshop**
 > This workshop is meant to serve as an introduction to bivariate choropleth mapping. It's a simple workshop that you should be able to replicate on your own afterwards.  
 
 <br>
 
-### By the end of this workshop you will be able to: 
+### **By the end of this workshop you will be able to:** 
 
 > * Distinguish between univariate and bivariate 
 > 
@@ -80,7 +80,7 @@ published: true
     <br>
       <br>
       
-### Considerations
+### **Considerations**
 > * Normalize your data (!) 
 > 
 > <br>
@@ -93,7 +93,7 @@ published: true
     <br>
       <br>
       
-### Data
+### **Data**
 > * [NHGIS State Shapefile](https://data2.nhgis.org/main)
 > <br>
 > * [CDC U.S. Diabetes Surveillance System](https://gis.cdc.gov/grasp/diabetes/DiabetesAtlas.html)
