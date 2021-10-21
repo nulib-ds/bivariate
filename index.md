@@ -47,7 +47,7 @@ published: true
 
 > * Distinguish between univariate and bivariate 
 > 
-> * Type of GIS data including Living Atlas sources
+> * Use resources from ArcGIS Online public layer sources
 > 
 > * Knowledge of basic symbology functions
 > 
