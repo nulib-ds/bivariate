@@ -67,7 +67,7 @@ published: true
    <br>
  <br>
    
-<html><center><img src="https://raw.githubusercontent.com/nulib-ds/bivariate/gh-pages/img/bivariate_map_ex.jpg" width="700" height="400"></center></html>   
+<html><center><img src="https://raw.githubusercontent.com/nulib-ds/bivariate/gh-pages/img/bivariate_map_ex.jpg" width="700" height="500"></center></html>   
 
 <br>
   <br>
