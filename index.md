@@ -32,7 +32,7 @@ published: true
   <br>
     <br>
     
-<html><center><img src="https://raw.githubusercontent.com/nulib-ds/bivariate/gh-pages/img/map_scale_intro_img.jpg" width="800" height="600"></center></html>  
+<html><center><img src="https://raw.githubusercontent.com/nulib-ds/bivariate/gh-pages/img/map_scale_intro_img.jpg" width="800" height="500"></center></html>  
 
 <br>
   <br>
@@ -67,7 +67,7 @@ published: true
   <br>
     <br>
       <br>
-<html><center><img src="https://raw.githubusercontent.com/nulib-ds/bivariate/gh-pages/img/univariate_map_ex.jpg" width="800" height="600"></center></html>  
+<html><center><img src="https://raw.githubusercontent.com/nulib-ds/bivariate/gh-pages/img/univariate_map_ex.jpg" width="800" height="500"></center></html>  
 
 <br>
   <br>
