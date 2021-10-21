@@ -3,7 +3,7 @@ title: Tutorials & Workflow Links
 ---
       
 ## What is a relationship map?
-[Esri documentation here](https://www.esri.com/arcgis-blog/products/arcgis-online/mapping/what-is-a-relationship-map)
+[Esri documentation](https://www.esri.com/arcgis-blog/products/arcgis-online/mapping/what-is-a-relationship-map)
 
 
 ## Sequential/Sequential Color Ramp
@@ -16,3 +16,6 @@ title: Tutorials & Workflow Links
 
 ## Symbolizing in ArcGIS Online
 [Change Style Workflow](https://doc.arcgis.com/en/arcgis-online/reference/change-style.htm)
+
+## Spatial Join in ArcPro
+[Workflow](https://pro.arcgis.com/en/pro-app/latest/tool-reference/analysis/spatial-join.htm)
