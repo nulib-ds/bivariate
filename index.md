@@ -82,6 +82,7 @@ published: true
       
 ### Considerations
 > * Normalize your data (!) 
+> 
 > <br>
 > * Use variables you suspect have a relationship (e.g., rainfall & diabetes vs. obesity & diabetes)
 > <br>
