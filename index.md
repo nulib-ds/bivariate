@@ -40,6 +40,8 @@ published: true
 > This workshop is meant to serve as an introduction to bivariate choropleth mapping. It's a simple workshop that you should be able to replicate on your own afterwards.  
 
 <br>
+  <br>
+    <br>
 
 ### **By the end of this workshop you will be able to:** 
 
@@ -73,7 +75,10 @@ published: true
   <br>
     <br>
       <br>
-      
+       <br>
+    <br>
+ <br>
+ 
 ### **Considerations**
 > * Normalize your data (!) 
 > 
