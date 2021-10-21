@@ -4,9 +4,12 @@ published: true
 ---
 
 ## Welcome! Let's get mapping. 
+<br>
 
 > * We'll be using ArcPro and ArcOnline for today's demo, so you'll need to have signed up for an ArcOnline account. Create one <a href="https://northwestern.maps.arcgis.com/home/index.html">here.</a>
+> 
 > <br>
+> 
 > * Want to follow along the demo? [Download Data](https://northwestern.box.com/s/mhaah8qx8udzaepsm7yuiv4snagxrvy0)
 
 <br>
