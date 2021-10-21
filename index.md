@@ -24,6 +24,8 @@ published: true
 
 > * We'll be using ArcPro and ArcOnline for today's demo. You'll need to create an ArcGIS Online account [here.](https://northwestern.maps.arcgis.com/home/index.html) To download and install ArcPro, go [here](https://www.it.northwestern.edu/software/secure/index.html). 
 > 
+> * ArcOnline is compatiable with Mac and Windows OS; ArcPro is only compatiable with Windows OS
+> 
 > * Want to follow along the demo? [Download Data](https://northwestern.box.com/s/mhaah8qx8udzaepsm7yuiv4snagxrvy0)
 
 <br>
