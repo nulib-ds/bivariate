@@ -87,7 +87,6 @@ published: true
 ### **Considerations**
 > * Normalize your data (!) 
 > 
-> <br>
 > * Use variables you suspect have a relationship (e.g., rainfall & diabetes vs. obesity & diabetes)
 > <br>
 > * Not statistically significant, only looking at highest vs. lowest values of overlaid variables  
