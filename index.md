@@ -32,7 +32,7 @@ Geospatial and Data Services - Northwestern University Libraries <br>
   <br>
     <br>
     
-<html><center><img src="https://raw.githubusercontent.com/nulib-ds/bivariate/gh-pages/img/map_scale_intro_img.jpg" alt txt="map-scale"></center></html>  
+<html><center><img src="https://raw.githubusercontent.com/nulib-ds/bivariate/gh-pages/img/map_scale_intro_img.jpg" width="400" height="500"></center></html>  
 
 <br>
   <br>
