@@ -3,13 +3,13 @@ layout: index
 published: true
 ---
 
-## Welcome! Let's get mapping. 
+## *Welcome! Let's get mapping.* 
 
-### Presenters
-> Kelsey Rydland - Data Science Librarian 
-> 
+<br>
+
+### *Presenters*
+> Kelsey Rydland - Data Science Librarian
 > <br>
-> 
 > Méch Frazier - Geospatial Specialist 
 > <br>
 > Geospatial and Data Services - Northwestern University Libraries <br>
