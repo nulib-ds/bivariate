@@ -92,7 +92,7 @@ published: true
       <br>
       
 ### **Data**
-> * [NHGIS State Shapefile](https://data2.nhgis.org/main)
+> * [NHGIS County Shapefile](https://data2.nhgis.org/main)
 > 
 > * [CDC U.S. Diabetes Surveillance System](https://gis.cdc.gov/grasp/diabetes/DiabetesAtlas.html)
 > 
