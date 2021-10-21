@@ -9,9 +9,9 @@ published: true
 
 ### **Presenters**
 > Kelsey Rydland - Data Science Librarian
-> <br>
+> 
 > Méch Frazier - Geospatial Specialist 
-> <br>
+> 
 > Geospatial and Data Services - Northwestern University Libraries <br>
 
 <br>
@@ -88,7 +88,7 @@ published: true
 > * Normalize your data (!) 
 > 
 > * Use variables you suspect have a relationship (e.g., rainfall & diabetes vs. obesity & diabetes)
-> <br>
+> 
 > * Not statistically significant, only looking at highest vs. lowest values of overlaid variables  
 
 <br>
