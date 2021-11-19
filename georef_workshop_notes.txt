@@ -1,0 +1,37 @@
+Georeferencing Workshop Notes
+
+First let's get a map. We've just recently added a bunch of new digitized maps to our Map and Atlas Collection at NU. 
+ > https://dc.library.northwestern.edu/collections/267bed1b-f808-4c51-acb1-0288378819d2 
+	> Search for Angola
+	> Scroll down > More Details > Download & Share 
+
+Open ArcPro 
+ > Add in .jpg
+ 	> Zoom to layer
+ > Find Angola using Locate function 
+ > Imagery > Georeference > Fit to Display 
+	> Change transparency to 50%
+ > Show control points 
+ > Save 
+
+ > Publish as Web Service layer
+	> Right-click layer and select > Sharing > Publish as Web Layer
+ > Open in ArcGIS Online: https://northwestern.maps.arcgis.com/home/index.html 
+
+There are free georeferencing services you can use, too, such as David Rumsey Map Collection Georeferencer: https://www.davidrumsey.com/view/georeferencer 
+ > You can search the collection to see if your map of interest has already been georeferenced, or you could just do it yourself!
+ > London Poverty by Charles Booth
+	> Sign In (it's free) 
+	> Go to "This Map" 
+	> Copy WMTS link
+ > Open ArcPro
+	> Connect to WMTS
+		> Insert > Connections > New WMTS Server
+	> Open Catalog Pane
+		> Open Servers > Add Map
+
+
+
+
+
+
