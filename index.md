@@ -108,6 +108,3 @@ published: true
 ### **To be used during demo**
 > * Join fields "GEOID" from US.shp and "CountyFIPS" from Sheet1$
 > * Copy and paste: Obesity and Diabetes Measures 2016 CDC
-
-
-<iframe src="https://storymaps.arcgis.com/stories/985d1be645144623972f65d960432802" height="200" width="300" title="Iframe Example"></iframe>  
